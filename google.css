@@ -1,0 +1,65 @@
+.navbar {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: right;
+}
+.img {
+  padding-top: 5px;
+  padding-right: 10px;
+  margin-right: 6px;
+}
+.gmail {
+  padding-top: 5px;
+  padding-right: 20px;
+  margin-right: 6px;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-size: small;
+}
+.center {
+  width: 100%;
+  height: 220px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+.google {
+  padding-top: 50px;
+  align-self: center;
+}
+.input {
+  justify-content: center;
+  height: 30px;
+  width: 500px;
+  border-radius: 70px;
+  text-align: center;
+}
+.searchbar {
+  display: flex;
+  justify-content: center;
+}
+.profile img {
+  margin-right: 11px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  filter: invert();
+}
+.short {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+#pic {
+  width: 71px;
+  height: 51px;
+}
+.box {
+  padding-left: 13px;
+  width: 81px;
+  height: 55px;
+  font-size: smaller;
+}
